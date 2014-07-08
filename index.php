@@ -2,7 +2,7 @@
 <html>
 	<head> 
 		<?php require('logic.php'); ?>
-		<link type="text/css" rel="stylesheet" href="style.css">
+		<link type="text/css" rel="stylesheet" href="style/style.css">
 	</head>
 	
 	<body>
